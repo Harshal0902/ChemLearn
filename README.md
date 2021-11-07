@@ -8,7 +8,7 @@ The site is deployed through Vercel, which you can view from [here](https://chem
 
 ## Demo video
 
-CLick [here](https://youtu.be/md4Ou5Cn_m8) to view the demo.
+CLick [here](https://youtu.be/J55ECEvlyao) to view the demo.
 
 ## 💡 Inspiration
 
